@@ -1,3 +1,10 @@
-# Decodificador-texto
-Meu primeiro projeto challenge Alura
-<link rel="preconnect" href="https://leonardoleitte06.github.io" />
+# Challenge ONE Alura | Turma 5
+
+<p>
+     <img width="340" heigth="300" src= "tela.PNG">
+</p>
+
+### Seja bem vindo ao  meu repositório do Decodificador de texto! 
+
+#### Marque esse projeto com uma estrela ⭐
+
